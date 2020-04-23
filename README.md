@@ -1,5 +1,6 @@
 # Fishbowl
-Unreleased mobile game app made with Flutter, based on the public domain game of the same name.
+Unreleased mobile game app made with Flutter, based on the public domain game of the same name.  
+
 ![[Demo gif 1]](demo_gifs/demo01.gif)
 ![[Demo gif 2]](demo_gifs/demo02.gif)
 ![[Demo gif 3]](demo_gifs/demo03.gif)
@@ -22,5 +23,5 @@ Unreleased mobile game app made with Flutter, based on the public domain game of
 - carousel_slider (Carousel for card selection phase)
 - rflutter_alert (Alert dialogs used as transitions)
 ## Credits
-Palm Court (Writers of demo base card set)
-gmetekorkmaz on GitHub (swipe_stack module mechanics)
+- Palm Court (Writers of demo base card set)
+- gmetekorkmaz on GitHub (swipe_stack module mechanics)
